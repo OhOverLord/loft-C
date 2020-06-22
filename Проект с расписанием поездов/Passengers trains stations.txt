@@ -1,0 +1,10 @@
+1001/Highbury & Islington/Dalston Junction/Shoreditch High Street/Whitechapel/Shadwell/Wapping
+1002/Trocadero/Palais Royal/Charles de Gaulle/Abbesses
+1003/Highbury & Islington/Dalston Junction/Shoreditch High Street
+1004/Palais Royal/Charles de Gaulle/Dalston Junction/Shoreditch High Street
+1005/Highbury & Islington/Dalston Junction/Whitechapel/Shadwell/Wapping
+1006/Palais Royal/Charles de Gaulle/Whitechapel/Shadwell/Wapping
+1007/Palais Royal/Charles de Gaulle/Whitechapel/Shadwell/Wapping
+1008/Shadwell/Wapping/Whitechapel/Shadwell/Wapping
+1009/Whitechapel/Shadwell/Wapping/Palais Royal/Charles de Gaulle/
+1010/Shoreditch High Street/Whitechapel/Shadwell/Wapping/Dalston Junction
